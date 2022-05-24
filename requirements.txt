@@ -3,6 +3,6 @@ keras_bert == 0.53.0
 khaiii == 0.5
 numpy == 1.16.3
 pymsteams == 0.1.10
-tensorflow_gpu == 1.12.2
+tensorflow_gpu == 2.6.4
 tqdm == 4.31.1
 requests == 2.22.0
